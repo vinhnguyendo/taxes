@@ -2,4 +2,5 @@
 # tax reform
 
 senate_bill <- "boo poor people, yay corporations"
-house_bill <- "tbd"
+
+house_bill <- "boo, grad students!"
